@@ -21,4 +21,6 @@
 
 ## Programming Languages
 
+* **JavaScript** 
+  *  **[Awesome npm](https://github.com/brandonhimpfen/awesome-npm):** A curated list of awesome npm resources, tips, and best practices.
 * **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
