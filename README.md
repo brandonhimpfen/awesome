@@ -11,6 +11,10 @@
 
 * **[Awesome Electron](https://github.com/brandonhimpfen/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
 
+## Platforms
+
+* **[Awesome Node.js](https://github.com/brandonhimpfen/awesome-nodejs):** A curated list of awesome Node.js packages and resources to enhance your development experience.
+
 ## Programming Languages
 
 * **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
