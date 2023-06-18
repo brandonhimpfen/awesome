@@ -10,3 +10,7 @@
 ## Programming Languages
 
 * **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
+
+## Frameworks
+
+* **[Awesome Electron](https://github.com/brandonhimpfen/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
