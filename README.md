@@ -7,6 +7,11 @@
 * **[Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress):** A curated list of resources for WordPress.
 * **[Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
 
+## Digital Marketing
+
+* **[Awesome SEO](https://github.com/brandonhimpfen/awesome-seo):** A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
+* **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media):** A curated list of resources and tips to level up your social media game!
+
 ## Engineering
 
 * **[Awesome Drone Engineers](https://github.com/brandonhimpfen/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
