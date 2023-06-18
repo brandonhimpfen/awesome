@@ -7,6 +7,10 @@
 * **[Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress):** A curated list of resources for WordPress.
 * **[Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
 
+## Engineering
+
+* **[Awesome Drone Engineers](https://github.com/brandonhimpfen/awesome-drone-engineers):** A curated list of resources, tools, and communities for drone engineers.
+
 ## Frameworks
 
 * **[Awesome Electron](https://github.com/brandonhimpfen/awesome-electron):** A curated list of awesome resources for developing applications with Electron, a framework that allows you to build cross-platform desktop apps using web technologies.
