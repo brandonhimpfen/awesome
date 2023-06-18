@@ -21,6 +21,13 @@
 
 ## Programming Languages
 
+* **[Awesome Go](https://github.com/brandonhimpfen/awesome-go):** A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
+* **[Awesome Haskell](https://github.com/brandonhimpfen/awesome-haskell):** A curated list of awesome Haskell resources and tips.
 * **JavaScript** 
   *  **[Awesome npm](https://github.com/brandonhimpfen/awesome-npm):** A curated list of awesome npm resources, tips, and best practices.
+* **[Awesome Julia](https://github.com/brandonhimpfen/awesome-julia):** A curated list of awesome resources, libraries, tools, and tips for Julia programming.
+* **[Awesome PureScript](https://github.com/brandonhimpfen/awesome-purescript):** A curated list of awesome PureScript resources, libraries, tools, and tips.
+* **[Awesome Ruby](https://github.com/brandonhimpfen/awesome-ruby):** A curated list of awesome Ruby resources, libraries, frameworks, and tips to help you level up your Ruby development skills.
+* **[Awesome Rust](https://github.com/brandonhimpfen/awesome-rust):** A curated list of awesome resources and tips for Rust programming language enthusiasts.
+* **[Awesome Scala](https://github.com/brandonhimpfen/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
