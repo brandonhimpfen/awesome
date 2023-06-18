@@ -6,3 +6,7 @@
 
 * **[Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress):** A curated list of resources for WordPress.
 * **[Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost):** A curated list of awesome resources, themes, plugins, and tools for the Ghost blogging platform.
+
+## Programming Languages
+
+* **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
