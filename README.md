@@ -26,6 +26,7 @@
 
 ## Programming Languages
 
+* **[Awesome ColdFusion](https://github.com/brandonhimpfen/awesome-coldfusion):** A curated list of awesome ColdFusion resources and tips for developers.
 * **[Awesome Go](https://github.com/brandonhimpfen/awesome-go):** A curated list of awesome Go resources and tips to help you become a more productive and proficient Go developer.
 * **[Awesome Haskell](https://github.com/brandonhimpfen/awesome-haskell):** A curated list of awesome Haskell resources and tips.
 * **JavaScript** 
