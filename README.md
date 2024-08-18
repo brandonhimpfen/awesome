@@ -40,5 +40,5 @@
 
 ## Web Optimization
 
-* **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-web-performance):** A curated list of awesome resources, tools, and tips to improve web performance.
 * **[Awesome Web Accessibility](https://github.com/brandonhimpfen/awesome-web-accessibility):** A curated list of awesome resources, tools, and tips to improve web accessibility.
+* **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-web-performance):** A curated list of awesome resources, tools, and tips to improve web performance.
