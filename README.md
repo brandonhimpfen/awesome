@@ -37,3 +37,8 @@
 * **[Awesome Rust](https://github.com/brandonhimpfen/awesome-rust):** A curated list of awesome resources and tips for Rust programming language enthusiasts.
 * **[Awesome Scala](https://github.com/brandonhimpfen/awesome-scala):** A curated list of awesome resources and tips for Scala development.
 * **[Awesome Swift](https://github.com/brandonhimpfen/awesome-swift):** A curated list of awesome Swift frameworks, libraries, and resources.
+
+## Web Optimization
+
+* **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-web-performance):** A curated list of awesome resources, tools, and tips to improve web performance.
+* **[Awesome Web Accessibility](https://github.com/brandonhimpfen/awesome-web-accessibility):** A curated list of awesome resources, tools, and tips to improve web accessibility.
